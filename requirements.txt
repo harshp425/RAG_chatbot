@@ -1,0 +1,9 @@
+Flask
+torch
+numpy
+faiss-cpu
+transformers
+sentence-transformers
+langchain
+pypdf2
+accelerate>=0.26.0
