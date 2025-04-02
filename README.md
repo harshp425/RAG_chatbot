@@ -39,3 +39,5 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot that provides int
 ## Demo
 
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/9a92d90a-7f15-47e9-9664-d8aba1143cc5" />
+<img width="1470" alt="Screenshot 2025-04-01 at 8 37 16 PM" src="https://github.com/user-attachments/assets/2a5765a0-0f31-4774-bb64-97959dad9ed7" />
+
